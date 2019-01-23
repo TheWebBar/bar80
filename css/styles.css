@@ -99,10 +99,6 @@ p {
   padding-left: 10px;
 }
 
-/**#work1, #work2 h3 {
-  padding-top: 20px;
-}**/
-
 #work1, #work2 {
   padding-left: 50px;
   padding-right: 50px;
@@ -203,25 +199,6 @@ textarea::-webkit-input-placeholder {
   width: 80%;
   margin: 0 auto;
   padding-top: 30px;
-}
-
-#cv-modal {
-  height: 500px;
-  width: 100%;
-  padding: 10px;
-}
-
-.modal-button {
-  padding-top: 50px;
-  padding-bottom: 10px;
-  padding-left: 10px;
-  /*float: right;*/
-}
-
-@media screen and (min-width: 768px) {
-  .modal-button {
-    float: right;
-  }
 }
 
 .btn-primary{
