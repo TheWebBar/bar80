@@ -64,12 +64,19 @@ p {
   padding-bottom: 50px;
 }
 
+#work-img1 {
+  padding-bottom: 20px;
+}
+
+#work-img2 {
+  padding-bottom: 40px;
+}
+
 .work-img {
   display: block;
   margin: auto;
   max-width: 300px;
   position: relative;
-  padding-top: 20px;
 }
 
 .info {
@@ -87,13 +94,14 @@ p {
 
 .proj-title1 {
   font-weight: 100;
-  color: black;
-  padding-top: 80px;
+  color: white;
+  font-size: 0.9em;
+  padding-left: 10px;
 }
 
-#work1, #work2 h3 {
+/**#work1, #work2 h3 {
   padding-top: 20px;
-}
+}**/
 
 #work1, #work2 {
   padding-left: 50px;

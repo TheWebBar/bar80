@@ -118,14 +118,14 @@ $(document).ready(function(){
 
   // work section
   $("#work1").prepend("\
-    <a href='https://barryshop.herokuapp.com/' class='work-img'>\
-      <img src='img/barryshop_.png' class='img-responsive'>\
+    <a href='https://barryshop.herokuapp.com/' class='work-img' id='work-img1'>\
+      <img src='img/barryshop.png' class='img-responsive'>\
       <span class='info'><p class='proj-title1'>Project 01:<br>Barryshop</p></span>\
     </a>\
   ");
 
   $("#work2").prepend("\
-    <a href='#' class='work-img'>\
+    <a href='#' class='work-img' id='work-img2'>\
       <img src='img/about_image.jpg' class='img-responsive'>\
       <span class='info'><p class='proj-title2'>Project 02:<br>Stay Tuned</p></span>\
     </a>\
